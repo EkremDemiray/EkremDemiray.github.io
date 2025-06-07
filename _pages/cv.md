@@ -72,9 +72,10 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Tudoring Calculus I, Calculus II, Electricity and Magnetism, and Classical Mechanics
+* Teaching Assistant, University of Florida
+  * PHY2048L, and Physics 2049
+
   
 Service and leadership
 ======

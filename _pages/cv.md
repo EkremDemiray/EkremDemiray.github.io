@@ -24,10 +24,10 @@ Work experience
   * Worked on 3D mapping with NeRF algorithms.
 
 * 20/2022 - 03/2023, Navio Technology
- * Develop, and implement embedded software in Fire Detection with Fire Detection Unit of Hürjet
- * Jet and Gökbey Attack Helicopter.
- * Support operation process and documentation.
- * Support all levels of Unit Testing, and Integration.
+  * Develop, and implement embedded software in Fire Detection with Fire Detection Unit of Hürjet
+  * Jet and Gökbey Attack Helicopter.
+  * Support operation process and documentation.
+  * Support all levels of Unit Testing, and Integration.
 
 * 03/2023 - 08/2023, Turkish Aerospace Industries
   * Develop, and implement embedded software for Turkish Jet Hur-Jet.

@@ -57,6 +57,11 @@ Research Experience
   * Research on Primordial Black Holes and Early Universe
   * Research on Scalar and Tensorial Perturbations on FLRW Metric
 
+* Higher Order Hamiltonian Truncation Effective Theory
+  *Sanity checks on loop calculations
+  *Setting up the software environment
+  *Updating and optimizing the existing codebase using relevant libraries
+  *Version control of the code
 
 Publications
 ======

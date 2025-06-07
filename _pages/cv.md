@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S., Istanbul Technical University, Department of Physics Engineering, 2018-2022
+* B.S., Istanbul Technical University, Department of Physics Engineering, 2018-2022, Vehbi Koc Foundation Fellowship
+  *High Honors Student
 
-* Ph.D, University of Florida, 2023-2027
+* Ph.D, University of Florida, 2023-2027, Grinter Fellowship
 
 Work experience
 ======
@@ -64,18 +65,7 @@ Research Experience
   * Version control of the code
   * https://github.com/EkremDemiray/HTET_NLO
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
 * Tudoring Calculus I, Calculus II, Electricity and Magnetism, and Classical Mechanics
@@ -83,6 +73,4 @@ Teaching
   * PHY2048L, and Physics 2049
 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

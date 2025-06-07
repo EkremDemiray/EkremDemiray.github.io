@@ -11,30 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S., Istanbul Technical University
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S., Istanbul Technical University, Department of Physics Engineering, 2018-2022
+
+* Ph.D, University of Florida, 2023-2027
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2022 - 09/2022, Baykar Technologies
+  * Worked on OpenSFM algorithms and their optimization.
+  * Worked on object detection with AI/ML.
+  * Worked on 3D map rendering with ML/AI algorithms.
+  * Worked on 3D mapping with NeRF algorithms.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 20/2022 - 03/2023, Navio Technology
+ * Develop, and implement embedded software in Fire Detection with Fire Detection Unit of Hürjet
+ * Jet and Gökbey Attack Helicopter.
+ * Support operation process and documentation.
+ * Support all levels of Unit Testing, and Integration.
+
+* 03/2023 - 08/2023, Turkish Aerospace Industries
+  * Develop, and implement embedded software for Turkish Jet Hur-Jet.
+  * Developed a terrain server from scratch with C++.
+  * Code optimization for various scripts.
+  * Support operation process and requirement analysis.
+    
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Design of a Compact, Integrated, and Self Sufficient Active Radon Detector
+  * Project Number : 121F215
+  * Running simulations on TRIM/SRIM to see the energy loss of alpha particles
+  * Running simulations on Poisson Superfish to see the magnitude of electric field lines
+  * Designing high voltage unit for electrostatic collection chamber
+* Thermodynamic Form of the Quantum Field Theory Equations in Curved Spacetimes
+  *  The special form of the radial part of the Kerr Metric in Klein Gordon equation is obtained
+  *  The special form of the radial part of the Myers Perry Metric in Klein Gordon equation is
+     obtained
+  *  Searched for a special form of the radial part of the Kerr Metric in Dirac equation by using both
+     symbolic analysis and Newman-Penrose Formalism 
+
+* Singularity Structure of General Type ABG Black Hole
+  * Searched for special gamma values which make the radial part of the massless Klein-Gordon
+    equation a confluent hypergeometric equation
+
+* Scalar and Tensorial Perturbations on Primordial Black Holes
+  * Research on Primordial Black Holes and Early Universe
+  * Research on Scalar and Tensorial Perturbations on FLRW Metric
+
 
 Publications
 ======
